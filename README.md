@@ -1,6 +1,8 @@
 🚀 Página de Erro 404 - Design Moderno (Ops! Página Não Encontrada)
 Transforme a frustração em uma experiência suave com nossa página 404 de design moderno. Responsiva, visualmente agradável e otimizada para guiar seu usuário de volta ao site.
 
+
+
 ✨ Recursos Principais
 Destaques do Design
 
@@ -23,7 +25,6 @@ Usabilidade
  
 
 
-Exportar para as Planilhas
 🎨 Personalização & Estrutura
 Personalização Fácil
 
@@ -41,9 +42,4 @@ Estrutura Clara
 
 - .container: Organiza .image-container e .text-container.
 
-- Animações/Tamanhos: Modifique estilos CSS para ajustes finos.
-
- 
-
-
-Exportar para as Planilhas
+- Animações/Tamanhos: Modifique estilos CSS para ajustes fino.
