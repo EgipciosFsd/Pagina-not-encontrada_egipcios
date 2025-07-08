@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Não Encontrada</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e0f2f7; /* Azul claro */
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            flex-direction: row;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        .container {
+            display: flex;
+            align-items: center;
+            background-color: #ffffff;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            width: 100%;
+        }
+        .image-container {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-right: 30px;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            /* Placeholder para a imagem */
+            background-color: #b3e5fc; /* Um azul mais claro para o placeholder */
+            min-width: 150px;
+            min-height: 150px;
+            display: block;
+            object-fit: cover;
+        }
+        .text-container {
+            flex: 2;
+        }
+        h1 {
+            color: #0288d1; /* Azul mais escuro para o título */
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        a {
+            color: #0288d1;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="image-container">
+            <img src="log.png" alt="Página não encontrada">
+        </div>
+        <div class="text-container">
+            <h1>Ops! Página Não Encontrada</h1>
+            <p>Parece que a página que você está procurando não existe ou foi movida.</p>
+            <p>Não se preocupe, você pode voltar para a <a href="/">página inicial</a> ou tentar navegar pelo nosso site.</p>
+            <p>Se você acredita que isso é um erro, por favor, entre em contato conosco.</p>
+        </div>
+    </div>
+</body>
+</html>
